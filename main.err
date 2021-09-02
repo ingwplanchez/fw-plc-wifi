@@ -1,0 +1,23 @@
+>>> Warning 203 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 40(1,1): Condition always TRUE
+>>> Warning 225 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_esp8266.h" Line 39(25,63): Duplicate #define
+>>> Warning 203 "main.c" Line 51(1,1): Condition always TRUE
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_byte)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_putc)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (drv_rpm_capture)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@ITOF)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIVFF)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@MULFF)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGCN7_96)
+>>> Warning 216 "main.c" Line 131(0,1): Interrupts disabled during call to prevent re-entrancy:  (@PRINTF_L32D_96FPFPF)
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 7(20,30): Variable never used:   Flag_salir
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 8(45,58): Variable never used:   Flag_Arranque
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 8(59,74): Variable never used:   Flag_MostrarADC
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 10(5,11): Variable never used:   Status
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 11(5,9): Variable never used:   time
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 11(19,26): Variable never used:   minutos
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 24(18,29): Variable never used:   DUTY_Actual
+>>> Warning 202 "C:\Users\wplanchez\Desktop\Mecatronica Consultores\PROYECTOS\PLC Wifi\FW\drv_gpio.c" Line 30(17,21): Variable never used:   Vout
+>>> Warning 202 "main.c" Line 3(14,21): Variable never used:   timetm1
+      Memory usage:   ROM=58%      RAM=21% - 36%
+      0 Errors,  21 Warnings.
